@@ -59,3 +59,4 @@ burer__btn.addEventListener('click',()=>{
 })
 
 
+alert('idi naxui');
